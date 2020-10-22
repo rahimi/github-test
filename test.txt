@@ -3,5 +3,9 @@ Hello, Leon is here.
 Test
 ich war hier
 Anna war auch da!
+<<<<<<< HEAD
 Ciao Kakao
 Matthias auch
+=======
+Matthias auch
+>>>>>>> master
