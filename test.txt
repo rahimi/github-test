@@ -8,7 +8,6 @@ Anna war auch da!
 Ciao Kakao
 Matthias auch
 Good morning!
-<<<<<<< HEAD
 Vince Test
 From ali-feature
 Toms Branch
@@ -20,8 +19,6 @@ Daniel
 Tessa
 Moin, ich bin Philipp :)!
 Moin Leute - Ilja :D 
-=======
 Ich bin Philipp
->>>>>>> ps-testNachricht
 Fynn
 Aus Branch
